@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 50.68 47.33">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: url(#New_Gradient_Swatch_copy_2);
+      }
+
+      .cls-3 {
+        fill: url(#New_Gradient_Swatch_copy);
+      }
+
+      .cls-4 {
+        fill: url(#New_Gradient_Swatch_copy_3);
+      }
+    </style>
+    <linearGradient id="New_Gradient_Swatch_copy" data-name="New Gradient Swatch copy" x1="31.93" y1="32.97" x2="17.09" y2="17.08" gradientUnits="userSpaceOnUse">
+      <stop offset=".38" stop-color="#1887c0"/>
+      <stop offset="1" stop-color="#174f78"/>
+    </linearGradient>
+    <linearGradient id="New_Gradient_Swatch_copy_2" data-name="New Gradient Swatch copy 2" x1="29.11" y1="18.87" x2="22.5" y2="11.79" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0dafbf"/>
+      <stop offset="1" stop-color="#174f78"/>
+    </linearGradient>
+    <linearGradient id="New_Gradient_Swatch_copy_3" data-name="New Gradient Swatch copy 3" x1="33.32" y1="14.92" x2="28.01" y2="23.76" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1887c0"/>
+      <stop offset="1" stop-color="#174f78"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-1" width="50.68" height="47.33"/>
+  <g>
+    <path class="cls-3" d="M14.34,18.83s3.56-1.6,7.35,0c0,0,1.43,.51,2.88,1.72,0,0,2.84,2.36,4.15,2.05,0,0,2.08,.25,5.14-3.68l-2.76,5.75-2.49,4.71s-3.06,5.59-9.41,6.09c0,0,7.27-2,4.74-8.6,0-.02-.02-.05-.03-.07,0,0-3.68-6.55-9.56-7.96Z"/>
+    <circle class="cls-2" cx="27.92" cy="17.6" r="2.72"/>
+    <path class="cls-4" d="M26.27,21.77s.58-.2,.81-.87c0,0,2.09,.56,3.59-1.37s-.05-4-.05-4c0,0,2.83-2.51,5.96-2.91l-2.73,6.3s-3.94,5.92-7.58,2.85Z"/>
+  </g>
+</svg>
